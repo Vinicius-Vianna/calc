@@ -43,6 +43,7 @@ button {
     color: white;
     font-size: 30px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .resultado {
